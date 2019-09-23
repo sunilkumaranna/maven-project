@@ -22,11 +22,11 @@
   </modules>
 
   <distributionManagement>          
-    <repositary>
+    <repository>
       <id>nexusjob</id>
       <name>nexusjob</name>
       <url>http://192.168.182.181:8081/repository/nexusjob/</url>
-    </repositary>
+    </repository>
   </distributionManagement>
 
   <build>
