@@ -23,8 +23,8 @@
 
   <distributionManagement>          
     <repositary>
-      <id>snapshots</id>
-      <name>snapshots</name>
+      <id>nexusjob</id>
+      <name>nexusjob</name>
       <url>http://192.168.182.181:8081/repository/nexusjob/</url>
     </repositary>
   </distributionManagement>
